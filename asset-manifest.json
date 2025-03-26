@@ -1,0 +1,16 @@
+{
+  "main.css": "/test/static/css/main.b5eb2dc7.chunk.css",
+  "main.js": "/test/static/js/main.d5e4ccc4.chunk.js",
+  "main.js.map": "/test/static/js/main.d5e4ccc4.chunk.js.map",
+  "static/js/1.33abb9b9.chunk.js": "/test/static/js/1.33abb9b9.chunk.js",
+  "static/js/1.33abb9b9.chunk.js.map": "/test/static/js/1.33abb9b9.chunk.js.map",
+  "runtime~main.js": "/test/static/js/runtime~main.5ad1e219.js",
+  "runtime~main.js.map": "/test/static/js/runtime~main.5ad1e219.js.map",
+  "static/media/App.css": "/test/static/media/ember-webfont.4f23c157.woff",
+  "static/media/logo.png": "/test/static/media/logo.fcfdc07e.png",
+  "static/media/iFont.png": "/test/static/media/iFont.6fdb9020.png",
+  "static/css/main.b5eb2dc7.chunk.css.map": "/test/static/css/main.b5eb2dc7.chunk.css.map",
+  "index.html": "/test/index.html",
+  "precache-manifest.258d6ee08f9bc5cf9681af05a8ad89ed.js": "/test/precache-manifest.258d6ee08f9bc5cf9681af05a8ad89ed.js",
+  "service-worker.js": "/test/service-worker.js"
+}
